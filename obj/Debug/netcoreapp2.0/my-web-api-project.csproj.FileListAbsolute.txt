@@ -1,0 +1,10 @@
+/Users/daniel/dev/my-web-api-project/bin/Debug/netcoreapp2.0/my-web-api-project.deps.json
+/Users/daniel/dev/my-web-api-project/bin/Debug/netcoreapp2.0/my-web-api-project.runtimeconfig.json
+/Users/daniel/dev/my-web-api-project/bin/Debug/netcoreapp2.0/my-web-api-project.runtimeconfig.dev.json
+/Users/daniel/dev/my-web-api-project/bin/Debug/netcoreapp2.0/my-web-api-project.dll
+/Users/daniel/dev/my-web-api-project/bin/Debug/netcoreapp2.0/my-web-api-project.pdb
+/Users/daniel/dev/my-web-api-project/obj/Debug/netcoreapp2.0/my-web-api-project.csproj.CoreCompileInputs.cache
+/Users/daniel/dev/my-web-api-project/obj/Debug/netcoreapp2.0/my-web-api-project.AssemblyInfoInputs.cache
+/Users/daniel/dev/my-web-api-project/obj/Debug/netcoreapp2.0/my-web-api-project.AssemblyInfo.cs
+/Users/daniel/dev/my-web-api-project/obj/Debug/netcoreapp2.0/my-web-api-project.dll
+/Users/daniel/dev/my-web-api-project/obj/Debug/netcoreapp2.0/my-web-api-project.pdb
